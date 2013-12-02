@@ -1,7 +1,7 @@
 {
   "name": "sandbox",
   "version": "0.0.1",
-  "description": "sandbox test packsge",
+  "description": "sandbox test package",
   "repository": {
     "type": "git",
     "url": "https://github.com/illai/testSandbox.git"
