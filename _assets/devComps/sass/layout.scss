@@ -1,4 +1,5 @@
 $myColor: #aacc33;
+$defWidth: 50%;
 
 body{
     background-color:$myColor;   
@@ -6,3 +7,6 @@ body{
 h1, p{
     color:$myColor;   
 }
+#mainContent, .bla{ width:$defWidth; }
+.bla{ background-color:$myColor }
+.blau{ background-color:$myColor }
