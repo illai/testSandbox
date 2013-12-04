@@ -1,0 +1,58 @@
+///////////////////////////////////////////////////////////////
+***************************************************************
+
+These are all components and features used on this project
+
+***************************************************************
+//////////////////////////////////////////////////////////////
+
+
+
+
+//////////////////// Tasks & tasks runner //////////////////
+
+Gruntjs
+http://gruntjs.com/
+
+grunt: JavaScript Taskrunner
+https://npmjs.org/package/grunt
+
+grunt-contrib-watch: Run predefined tasks whenever watched file patterns are added, changed or deleted.
+https://npmjs.org/package/grunt-contrib-watch
+
+grunt-contrib-compass: Compile Sass to CSS using Compass
+https://npmjs.org/package/grunt-contrib-compass
+
+grunt-contrib-uglify: Minify files with UglifyJS.
+https://npmjs.org/package/grunt-contrib-uglify
+
+matchdep: Use globule to filter npm module dependencies by name
+https://npmjs.org/search?q=matchdep
+
+*************************************************************
+
+
+////////////////////       Styling       //////////////////
+
+Compass
+http://compass-style.org/
+
+Susy
+http://susy.oddbird.net/
+
+sassy-buttons
+http://jaredhardy.com/sassy-buttons/
+
+Font Awsom
+http://fontawesome.io/
+
+Google Fonts
+http://www.google.com/fonts (Dosis - normal, medium, semi-bold)
+
+*************************************************************
+
+
+////////////////////JS Libraries & plugins/////////////////
+
+
+*************************************************************
